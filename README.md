@@ -108,7 +108,7 @@ No we cannot do that. `currentcolor` depends on the cascade (so the DOM) and we 
 ### Can we use CSS custom properties so we can do `color(var(--mainColor) adjuster())`?
 
 By using [postcss-custom-properties](https://github.com/postcss/postcss-custom-properties) before this plugin, you can do that (sort of).
-You have some examples in [cssnext playground](http://cssnext.io/playground/).
+You have some examples in [cssnext playground](https://cssnext.github.io/playground/).
 
 ## Notes for former Sass users
 
